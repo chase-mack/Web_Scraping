@@ -38,9 +38,3 @@ const useData = async () => {
 }
 
 useData();
-
-
-
-// LOOK INTO SELECTING THE "SPEC-ITEM" class
-
-// .trim().replace(/ *\([^)]*\) */g, "")
