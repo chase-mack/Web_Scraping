@@ -13,6 +13,10 @@ You will need to have NodeJS, Axios, and Cheerio installed to run the program.
 ### Installing
 Visit https://nodejs.org/en/download/ to install Node.
 
+Create a Directory and clone the github repo into it.
+
+CD into the directory you created.
+
 Open your terminal of choice.
 
 Run the following:
@@ -22,8 +26,6 @@ npm i
 npm i axios
 npm i cheerio
 ```
-
-Create a Directory and clone the github repo into it.
 
 ### Executing program
 
